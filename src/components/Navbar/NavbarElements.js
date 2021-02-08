@@ -23,7 +23,7 @@ export const Nav = styled.nav`
 export const NavbarContainer = styled.div`
     display: flex;
     justify-content: space-between;
-    z-index: 0;
+    z-index: 1;
     width: 100%;
     padding: 0 24px;
     max-width: 1100px;
